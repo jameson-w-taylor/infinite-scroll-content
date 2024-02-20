@@ -1,0 +1,7 @@
+{
+  "name": "react-infinite-scroll",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
